@@ -1,3 +1,3 @@
 # Spotify Clone
 
-## Deploy Link: Spotify(https://spotifydj.netlify.app/)
+## Deploy Link: [Spotifydj](https://spotifydj.netlify.app/)
